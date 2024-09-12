@@ -1,0 +1,13 @@
+{
+  "Descriptor": {
+    "UId": "13c67e16-3bfe-47c7-a08a-9b7a83c71df7",
+    "Name": "NrbReleaseDetail",
+    "ModifiedOnUtc": "\/Date(1726136410962)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Выпуски\""
+  }
+}

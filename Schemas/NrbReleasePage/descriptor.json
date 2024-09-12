@@ -1,0 +1,13 @@
+{
+  "Descriptor": {
+    "UId": "5a8ebcdc-cfba-4fce-baeb-720c4682922c",
+    "Name": "NrbReleasePage",
+    "ModifiedOnUtc": "\/Date(1725905675281)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Выпуск"
+  }
+}

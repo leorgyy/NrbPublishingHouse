@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0784ba58-757d-40dc-89a6-e72accf2b194",
+    "Name": "NrbRelease",
+    "ModifiedOnUtc": "\/Date(1725831230000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Выпуск"
+  }
+}

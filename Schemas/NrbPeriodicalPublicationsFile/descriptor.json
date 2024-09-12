@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0214a808-c1b2-47dc-947a-ea27ec2a58ee",
+    "Name": "NrbPeriodicalPublicationsFile",
+    "ModifiedOnUtc": "\/Date(1725828885000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Периодические издания"
+  }
+}

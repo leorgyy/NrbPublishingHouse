@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "5eda1fb1-1d14-3fbc-12b3-33cbd74ecf6c",
+    "Name": "NrbPublishingHouse",
+    "BPMSoftVersion": "1.4.0",
+    "ModifiedOnUtc": "\/Date(1725827781000)\/",
+    "Maintainer": "NORBIT",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d0f5bdf4-7438-4e25-b457-f67fdce6adb3",
+    "Name": "NrbPeriodicalPublicationsInTag",
+    "ModifiedOnUtc": "\/Date(1725828916000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Периодические издания"
+  }
+}

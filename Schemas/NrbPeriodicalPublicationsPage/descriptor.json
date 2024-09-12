@@ -1,0 +1,13 @@
+{
+  "Descriptor": {
+    "UId": "87f42b2e-6b55-4c2d-944d-edcafd1091c0",
+    "Name": "NrbPeriodicalPublicationsPage",
+    "ModifiedOnUtc": "\/Date(1726143218490)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Периодические издания\""
+  }
+}

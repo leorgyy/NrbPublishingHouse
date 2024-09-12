@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Периодические издания" />
+			<Item Name="Columns.NrbCode.Caption" Value="Код" />
+			<Item Name="Columns.NrbComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.NrbIsActive.Caption" Value="Активно" />
+			<Item Name="Columns.NrbLastPublicationDate.Caption" Value="Дата последнего выпуска" />
+			<Item Name="Columns.NrbName.Caption" Value="Название" />
+			<Item Name="Columns.NrbNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.NrbPeriodicity.Caption" Value="Периодичность" />
+			<Item Name="Columns.NrbResponsiblePerson.Caption" Value="Ответственный" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

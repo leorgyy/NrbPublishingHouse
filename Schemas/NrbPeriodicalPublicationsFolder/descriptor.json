@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "91b9a731-04e2-448d-a6e1-cccfc59bd5ff",
+    "Name": "NrbPeriodicalPublicationsFolder",
+    "ModifiedOnUtc": "\/Date(1725828894000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Периодические издания"
+  }
+}
